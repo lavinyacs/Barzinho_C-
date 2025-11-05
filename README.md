@@ -103,4 +103,5 @@ Para compilar e executar este projeto, você precisará de:
 
 ### Compilar:
 g++ barzinho.cpp -o barzinho
+
 ./barzinho
