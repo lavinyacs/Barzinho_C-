@@ -102,6 +102,5 @@ Para compilar e executar este projeto, você precisará de:
 * **Kit de Compilação:** MinGW (ou MSVC) e SQlite
 
 ### Compilar:
-```bash
 g++ barzinho.cpp -o barzinho
 ./barzinho
