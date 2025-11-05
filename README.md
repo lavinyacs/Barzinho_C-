@@ -3,9 +3,7 @@
 Projeto acadêmico da disciplina de Estrutura de Dados e Orientação a Objetos (EDOO) do CIn-UFPE.
 
 <p align="center">
-  <strong><a href="https://github.com/JaianeEvilasio/Barzinho_C-">Acessar o Código Fonte no GitHub</a></strong>
-  <br>
-  <strong><a href="https://youtu.be/5KgZ2RZTEjYk">Ver o Vídeo Explicando o Código (YouTube)</a></strong>
+  <strong><a href="https://youtu.be/5Kg2RZTEyJk">Ver o Vídeo Explicando o Código (YouTube)</a></strong>
   <br>
   <strong><a href="https://1drv.ms/w/c/b6db38c16927f196/EaD8-IhdJGtNgK40-h-LNAgBaolIGXXYDaNCMbn7Nk4ofw?e=7ofHOe">Ler o Relatório Detalhado do Projeto</a></strong>
 </p>
@@ -49,7 +47,7 @@ Barzinho_C-/
 Aqui estão algumas capturas de tela e uma demonstração em vídeo do sistema em execução.
 
 ### Vídeo de Demonstração
-[![Vídeo Demonstração do Barzinho C++](https://img.youtube.com/vi/5KgZ2RZTEjYk/maxresdefault.jpg)](https://youtu.be/5KgZ2RZTEjYk)
+[![Vídeo Demonstração do Barzinho C++](https://img.youtube.com/vi/5KgZ2RZTEjYk/0.jpg)](https://youtu.be/5KgZ2RZTEjYk)
 
 ### Screenshots
 ![Cardápio](https://github.com/user-attachments/assets/e49a6009-463b-402a-b802-094088b5863b)
