@@ -44,10 +44,7 @@ Barzinho_C-/
 ```
 
 ## Resultados
-Aqui estão algumas capturas de tela e uma demonstração em vídeo do sistema em execução.
-
-### Vídeo de Demonstração
-[![Vídeo Demonstração do Barzinho C++](https://img.youtube.com/vi/5KgZ2RZTEjYk/0.jpg)](https://youtu.be/5KgZ2RZTEjYk)
+Aqui estão algumas capturas de tela do sistema em execução.
 
 ### Screenshots
 ![Cardápio](https://github.com/user-attachments/assets/e49a6009-463b-402a-b802-094088b5863b)
@@ -104,7 +101,7 @@ Para compilar e executar este projeto, você precisará de:
 
 * **Kit de Compilação:** MinGW (ou MSVC) e SQlite
 
-### Compilar: 
+### Compilar:
+```bash
 g++ barzinho.cpp -o barzinho
-### Executar: 
-./barzinho.exe
+./barzinho
